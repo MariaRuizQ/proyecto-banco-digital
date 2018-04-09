@@ -4,9 +4,9 @@
 
 Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realizar las mismas operaciones que realiza en un banco presencial, mediante un proceso menos complicado y más agradable
 
-![Logo Banmill](assets/images/banmill.png)
+![Logo Banmill](img/banmill.png)
 
-![Página de inicio a la app Banmill](assets/images/home.png)
+![Página de inicio a la app Banmill](img/home.png)
 
 # Desarrollado para:
 
@@ -27,7 +27,7 @@ Banmill es una propuesta de un banco 100% digital, permitiendo al usuario realiz
 
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en [Nequi](https://www.nequi.com.co/), [Nubank](https://www.nubank.com.br/) y [Simple](https://www.simple.com/) se han propuesto crear un banco 100% digital dirigido para millenials.
 
-![Millenials](assets/images/millenials.jpg)
+![Millenials](img/millenials.jpg)
 
 # Objetivo:
 
@@ -49,49 +49,49 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
 ## B. Nuestros  Stakeholders
 
-   ![Stakeholders](assets/images/stackholders.png)
+   ![Stakeholders](img/stackholders.png)
 
 ## C. Reunión Kick-Off
 
    * Preguntas Cliente Interno:
 
-     ![Preguntas](assets/images/preguntas.png)
+     ![Preguntas](img/preguntas.png)
 
    * Business Model Canvas:
 
-     ![BMC](assets/images/bmc.png)
+     ![BMC](img/bmc.png)
 
    * Objetivo de BANMILL:
 
-     ![Objetivo](assets/images/objetivo.png)
+     ![Objetivo](img/objetivo.png)
 
    * Beneficios que ofrece BANMILL para El Banco del País:
 
-     ![Beneficios](assets/images/beneficios.png)  
+     ![Beneficios](img/beneficios.png)  
 
    * Alcance:
 
-     ![Alcance](assets/images/alcance.png)
+     ![Alcance](img/alcance.png)
 
    * Principales Riesgos:
 
-     ![Riesgos](assets/images/riesgos.png)
+     ![Riesgos](img/riesgos.png)
 
 ## D. Plan de Investigación
 
    * Objetivos:
 
-     ![ObjetivosPI](assets/images/objetivoPV.png)
+     ![ObjetivosPI](img/objetivoPV.png)
 
    * Herramientas a utilizar:
 
-     ![Herramientas](assets/images/herramientas.png)
+     ![Herramientas](img/herramientas.png)
 
    * Actividades a Realizar:
 
-     ![Actividades](assets/images/actividades.png)
+     ![Actividades](img/actividades.png)
 
-     ![ActividadesFinales](assets/images/conjuntodeactividades.png)
+     ![ActividadesFinales](img/conjuntodeactividades.png)
 
 # Etapas DCU (Diseño Centrado en el Usuario):
 
@@ -109,9 +109,9 @@ Actividades:
 
 3. Recolección de datos de la Encuesta a través de Typeform:
 
-   ![Encuesta](assets/images/encuesta1.png)
+   ![Encuesta](img/encuesta1.png)
 
-   ![Encuesta](assets/images/encuesta2.png)
+   ![Encuesta](img/encuesta2.png)
 
 ## B. Síntesis y Definición
 
@@ -130,7 +130,7 @@ El procedimiento que se siguió a través del diagrama de afinidad fué:
     * Cobros.
     * Otros.
 
-![Diagrama de afinidad: Paso 2](assets/images/diagrama.jpg)
+![Diagrama de afinidad: Paso 2](img/diagrama.jpg)
 
 ### 3. Elección del problema
 
@@ -140,7 +140,7 @@ Es posible que la información otorgada por los bancos no sea recibida en este c
 
 ### 4. Definición del User persona:
 
-   ![UserPerson](assets/images/user.png)
+   ![UserPerson](img/user.png)
 
 ## C. Prototipado
 
